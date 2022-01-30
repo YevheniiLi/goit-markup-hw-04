@@ -658,7 +658,9 @@ margin-left: 50px;
 }
 
 .footer-contact-text {
+    
     font-size: 14px;
+    font-style: normal;
     font-weight: bold;
     line-height: 1.14;
     letter-spacing: 0.03em;
